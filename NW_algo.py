@@ -93,8 +93,8 @@ for y in range(1,lenB+1):
 show(DNA[0],DNA[1],matrix)
 #show(DNA[0],DNA[1],arrow_matrix)
 getAlignment(lenA,lenB,"","")
-print DNA[0]+":",
+print "Best alignments for "+DNA[0]+":",
 print AlignmentsX
-print DNA[1]+":",
+print "Best alignments for "+DNA[1]+":",
 print AlignmentsY
 
