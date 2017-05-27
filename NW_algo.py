@@ -1,7 +1,7 @@
 import sys
 import numpy as np
 import os
-PGAP = 1
+PGAP = 2
 AlignmentsX=[]
 AlignmentsY=[]
 def getAlignment(x,y,str1,str2):
